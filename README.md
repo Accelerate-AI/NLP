@@ -130,4 +130,4 @@ Language Modeling & Sentiment Classification with DL, Translation with RNNs | <u
 End of Contents
 ```
 
-**If you are looking to explore more and deep dive into Exploratory Data Analysis / Data Visualization, please get in touch with the Accelerate AI Team - AccelerateDataScience@gmail.com**
+**If you are looking to explore more and deep dive into this and have any specific questions regarding how to scale in your journey towards learning in NLP, please get in touch with the Accelerate AI Team - AccelerateDataScience@gmail.com**
